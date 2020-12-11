@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(64, 224, 208, 0.452);
+}
+img{
+    align-self: right;
+}
+p{
+    text-align: left;
+    color: grey;
+    background-color: rgba(128, 128, 128, 0.493);
+} 
+h3{
+    text-align: center;
+    color: rgba(255, 228, 196, 0.623);
+    background-color: rgba(128, 128, 128, 0.932);
+}
+
